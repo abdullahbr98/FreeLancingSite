@@ -1,0 +1,11 @@
+.bcrumb {
+    padding: 10px;
+}
+
+nav {
+    --bs-breadcrumb-divider: '>';
+}
+
+.breadcrumb-item:hover {
+    text-decoration: 'underline';
+}

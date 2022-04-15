@@ -1,0 +1,94 @@
+header{
+    background-color: rgb(123, 175, 100);
+    min-height: 64px;
+}
+.btn1{
+    float: right;
+    background: #f77d0e;
+    border: 1px solid #f77d0e;
+    color: #F7F7F7;
+    font-weight: 700;
+    font-size: .875rem;
+    text-shadow: 0 -1px transparent;
+    border-radius: 0;
+    margin-right: 8px;
+    padding: 8px 18px 8px 18px;
+    
+}
+.srbar{
+    margin-bottom:15px !important;
+    background-color: white !important;
+    box-shadow: 0 0 6px 0 rgb(0 0 0 / 12%), 0 4px 10px 0 rgb(0 0 0 / 16%) !important;
+}
+.sec-nav{
+    background: #007fed;
+    min-height:  30px;
+    padding: 25px;
+    word-break: break-word;
+}
+
+.btn2{
+    float: right;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: .875rem;
+    text-shadow: 0 -1px transparent;
+    border-radius: 0;
+    background: 0 0;
+    padding: 8px 18px 8px 18px;
+}
+.bcrumb{
+    padding: 10px;
+}
+.search-input{
+    font-size: 1rem;
+    border: 0; 
+    display: inline-block; 
+    margin-left: 2px; 
+    box-shadow: none !important;
+}
+
+.search-icons{
+    margin: auto; 
+    display: inline-block; 
+    overflow:hidden
+}
+.rangee{
+    display: inline-block !important; 
+    margin: 5px 10px 10px 10px !important;
+}
+.dropbtn{
+    margin: 20px 10px 0px 10px  !important;
+    background-color: inherit !important;
+     color: black  !important;
+     width: 82.5% !important;
+}
+.dropbtn1{
+    margin: 20px 10px 0px 10px  !important;
+    background-color: inherit !important;
+     color: black  !important;
+     width: 82.5% !important;
+}
+
+
+.form-elegant .font-small {
+    font-size: 0.8rem; }
+
+.form-elegant .z-depth-1a {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+    box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+
+.form-elegant .z-depth-1-half,
+.form-elegant .btn:hover {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+
+.form-elegant .modal-header {
+    border-bottom: none; }
+
+.modal-dialog .form-elegant .btn .fab {
+    color: #2196f3!important; }
+
+.form-elegant .modal-body, .form-elegant .modal-footer {
+    font-weight: 400; }

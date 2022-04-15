@@ -1,0 +1,32 @@
+.sec-nav {
+    background: #007fed;
+    min-height: 30px;
+    padding: 25px;
+    word-break: break-word;
+}
+
+.btn2 {
+    float: right;
+    border: 1px solid #ffffff !important;
+    color: #ffffff !important;
+    font-weight: 700;
+    font-size: .875rem;
+    text-shadow: 0 -1px transparent;
+    border-radius: 0 !important;
+    background: 0 0;
+    padding: 8px 18px 8px 18px;
+}
+
+.btn1 {
+    float: right;
+    background: #F20091 !important;
+    border: 1px solid #F20091 !important;
+    color: #F7F7F7;
+    font-weight: 700;
+    font-size: .875rem;
+    text-shadow: 0 -1px transparent;
+    border-radius: 0 !important;
+    margin-right: 8px;
+    padding: 8px 18px 8px 18px;
+
+}
