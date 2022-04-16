@@ -1,7 +1,3 @@
-.bcrumb {
-    padding: 10px;
-}
-
 nav {
     --bs-breadcrumb-divider: '>';
 }

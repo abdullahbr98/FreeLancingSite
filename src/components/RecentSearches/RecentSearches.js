@@ -2,8 +2,8 @@ import React from 'react'
 import './RecentSearches.css'
 export default function RecentSearches() {
     return (
-        <div className='row'>
-            <div className="col-3 d-flex flex-column align-items-start" style={{ backgroundColor: '#FFFFFF' }}>
+        
+            <div className="d-md-block d-none col-md-3 me-3 d-flex flex-column align-items-start" style={{ backgroundColor: '#FFFFFF' }}>
 
                 <h5 style={{ margin: '15px 15px 51px 15px' }}>
                     My recent searches
@@ -107,6 +107,5 @@ export default function RecentSearches() {
 
 
             </div>
-        </div >
     )
 }
